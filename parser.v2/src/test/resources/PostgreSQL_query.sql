@@ -1,0 +1,25 @@
+DROP TABLE authors;
+DROP TABLE categories;
+DROP TABLE main;
+
+CREATE TABLE public.main (
+  id CHARACTER VARYING(30) PRIMARY KEY NOT NULL,
+  title CHARACTER VARYING(255) NOT NULL,
+  summary TEXT NOT NULL,
+  primary_category CHARACTER VARYING(20) NOT NULL,
+  ref CHARACTER VARYING(255) NOT NULL
+);
+
+CREATE TABLE public.authors (
+  article_id CHARACTER VARYING(30) NOT NULL,
+  name CHARACTER VARYING(255) NOT NULL,
+  FOREIGN KEY (article_id) REFERENCES main (id)
+    ON DELETE CASCADE
+);
+
+CREATE TABLE public.categories (
+  article_id CHARACTER VARYING(30) NOT NULL,
+  category CHARACTER VARYING(255) NOT NULL,
+  FOREIGN KEY (article_id) REFERENCES main (id)
+    ON DELETE CASCADE
+);

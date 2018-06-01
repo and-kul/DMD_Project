@@ -1,0 +1,24 @@
+html {
+    overflow-y: scroll;
+}
+
+.panel-body {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 8px;
+    font-size: 12px
+}
+
+.panel-body p {
+    margin-bottom: 4px
+}
+
+.panel-body h5 {
+    margin-top: 12px;
+    margin-bottom: 8px
+}
+
+.panel-body hr {
+    margin-top: 8px;
+    margin-bottom: 12px
+}

@@ -1,0 +1,261 @@
+arxiv_id: cond-mat/0001001v1
+title: Statistical thermodynamics of membrane bending mediated protein-protein
+  attraction
+published: 2000-01-01
+summary:   Integral membrane proteins deform the surrounding bilayer creating
+long-ranged forces that influence distant proteins. These forces can be
+attractive or repulsive, depending on the proteins' shape, height, contact
+angle with the bilayer, as well as the local membrane curvature. Although
+interaction energies are not pairwise additive, for sufficiently low protein
+density, thermodynamic properties depend only upon pair interactions. Here, we
+compute pair interaction potentials and entropic contributions to the
+two-dimensional osmotic pressure of a collection of noncircular proteins. In
+contrast to direct short-ranged interactions such as van der Waal's,
+hydrophobic, or electrostatic interactions, both local membrane Gaussian
+curvature and protein ellipticity can induce attractions between two proteins
+at distances of up to ten times their typical radii. For flat membranes,
+bending rigidities of $\sim 30k_{B}T$, and moderate ellipticities, we find
+thermally averaged attractive interactions of order $\sim 2k_{B}T$. These
+interactions may play an important role in the intermediate stages of protein
+aggregation.
+
+doi: null
+pdf: http://arxiv.org/pdf/cond-mat/0001001v1
+journal_ref: null
+primary_category: 1
+authors: [Tom Chou, Ken S. Kim, George Oster]
+affiliations: []
+keywords: [bending, mediated, statistical, membrane, attraction, protein-protein, thermodynamics]
+
+arxiv_id: cond-mat/0001002v3
+title: Strong Coupling Approach to the Supersymmetric Kondo Model
+published: 2000-07-07
+summary:   We carry out the strong coupling expansion for the SU(N) Kondo model where
+the impurity spin is represented by a L-shaped Young tableau. Using second
+order perturbation theory around the strong coupling fixed point it is shown
+that when the antisymmetric component of the Young-tableau contains more than
+N/2 entries, the strong-coupling fixed point becomes unstable to a two-stage
+Kondo effect. By comparing the strong coupling results obtained here with the
+result using a supersymmetric large N expansion, we are also able to confirm
+the validity of the the supersymmetric formalism for mixed symmetry Kondo
+models.
+
+doi: 10.1016/S0550-3213(00)00419-3
+pdf: http://arxiv.org/pdf/cond-mat/0001002v3
+journal_ref: Nuclear Physics B586, 641-667, (2000).
+primary_category: 1
+authors: [P. Coleman, C. Pepin, A. M. Tsvelik]
+affiliations: []
+keywords: [coupling, strong, kondo, supersymmetric, model, approach]
+
+arxiv_id: cond-mat/0001003v2
+title: Luttinger Liquid Physics in the Superconductor Vortex Core
+published: 2000-05-26
+summary:   We study several aspects of the structure of vortices in conventional s-wave
+Type $II$ superconductors. It is well-known that there are low energy
+quasiparticles bound to the core of a vortex. We show that under certain
+conditions, these quasiparticles form a degenerate Fermi gas with a finite
+density of states at the Fermi energy. In three dimensional superconductors,
+the result is a one dimensional Fermi gas of quasiparticles bound to the core
+of a vortex line. As is usual in one dimensional systems, interactions between
+the quasiparticles lead to Luttinger liquid behaviour. This may be probed
+through STM tunneling into the vortex core. We further suggest that a novel
+Peierls-type instability in the shape of the vortex line may develop due to
+interactions between the quasiparticle gas and fluctuations in the vortex line
+shape.
+
+doi: null
+pdf: http://arxiv.org/pdf/cond-mat/0001003v2
+journal_ref: null
+primary_category: 1
+authors: [Ashvin Vishwanath, T. Senthil]
+affiliations: []
+keywords: [core, vortex, liquid, physics, superconductor, luttinger]
+
+arxiv_id: cond-mat/0001004v1
+title: Characterization of ferrimagnetic Heisenberg chains according to the
+  constituent spins
+published: 2000-01-01
+summary:   The low-energy structure and the thermodynamic properties of ferrimagnetic
+Heisenberg chains of alternating spins $S$ and $s$ are investigated by the use
+of numerical tools as well as the spin-wave theory. The elementary excitations
+are calculated through an efficient quantum Monte Carlo technique featuring
+imaginary-time correlation functions and are characterized in terms of
+interacting spin waves. The thermal behavior is analyzed with particular
+emphasis on its ferromagnetic and antiferromagnetic dual aspect. The extensive
+numerical and analytic calculations lead to the classification of the
+one-dimensional ferrimagnetic behavior according to the constituent spins: the
+ferromagnetic ($S>2s$), antiferromagnetic ($S<2s$), and balanced ($S=2s$)
+ferrimagnetism.
+
+doi: 10.1007/s100510051118
+pdf: http://arxiv.org/pdf/cond-mat/0001004v1
+journal_ref: null
+primary_category: 1
+authors: [Shoji Yamamoto, Takahiro Fukui, Toru Sakai]
+affiliations: []
+keywords: [chains, constituent, according, spins, ferrimagnetic, heisenberg, characterization]
+
+arxiv_id: cond-mat/0001005v1
+title: Linear and nonlinear rheology of wormlike micelles
+published: 2000-01-02
+summary:   Several surfactant molecules self-assemble in solution to form long,
+cylindrical, flexible wormlike micelles. These micelles can be entangled with
+each other leading to viscoelastic phases. The rheological properties of such
+phases are very interesting and have been the subject of a large number of
+experimental and theoretical studies in recent years. We shall report on our
+recent work on the macrorheology, microrheology and nonlinear flow behaviour of
+dilute aqueous solutions of a surfactant CTAT (Cetyltrimethylammonium
+Tosilate). This system forms elongated micelles and exhibits strong
+viscoelasticity at low concentrations ($\sim$ 0.9 wt%) without the addition of
+electrolytes. Microrheology measurements of $G(\omega)$ have been done using
+diffusing wave spectroscopy which will be compared with the conventional
+frequency sweep measurements done using a cone and plate rheometer. The second
+part of the paper deals with the nonlinear rheology where the measured shear
+stress $\sigma$ is a nonmonotonic function of the shear rate $\dot{\gamma}$. In
+stress-controlled experiments, the shear stress shows a plateau for
+$\dot{\gamma}$ larger than some critical strain rate, similar to the earlier
+reports on CPyCl/NaSal system. Cates et al have proposed that the plateau is a
+signature of mechanical instability in the form of shear bands. We have carried
+out extensive experiments under controlled strain rate conditions, to study the
+time-dependence of shear stress. The measured time series of shear stress has
+been analysed in terms of correlation integrals and Lyapunov exponents to show
+unambiguously that the behaviour is typical of low dimensional dynamical
+systems.
+
+doi: 10.1007/s12043-999-0151-3
+pdf: http://arxiv.org/pdf/cond-mat/0001005v1
+journal_ref: Pramana, vol. 53, no. 1, 223-235, (1999)
+primary_category: 1
+authors: [A. K. Sood, Ranjini Bandyopadhyay, Geetha Basappa]
+affiliations: []
+keywords: [wormlike, linear, rheology, nonlinear, micelles]
+
+arxiv_id: cond-mat/0001006v1
+title: Condensed Matter Physics - Biology Resonance
+published: 2000-01-03
+summary:   The field of condensed matter physics had its genesis this century and it has
+had a remarkable evolution. A closer look at its growth reveals a hidden aim in
+the collective consciousness of the field - a part of the development this
+century is a kind of warm up exercise to understand the nature of living
+condensed matter, namely the field of biology, by a growing new breed of
+scientists in the coming century. Through some examples the vitality of this
+interaction will be pointed out.
+
+doi: 10.1142/S021797920000042X
+pdf: http://arxiv.org/pdf/cond-mat/0001006v1
+journal_ref: null
+primary_category: 1
+authors: [G. Baskaran]
+affiliations: [Institute of Mathematical Sciences, Madras, India]
+keywords: [biology, physics, condensed, matter, resonance, -]
+
+arxiv_id: cond-mat/0001007v1
+title: Correlations in doped Antiferromagnets
+published: 2000-01-02
+summary:   A comprehensive study of doped RVB states is performed. It reveals a
+fundamental connection between superconductivity and quantum spin fluctuations
+in underdoped cuprates :
+ {\em Cooper pair hopping} strongly reduces the local magnetization $m_0$. This
+effect pertains to recent muon spin rotation measurements in which $m_0$ varies
+weakly with hole doping in the poorly conducting regime, but drops
+precipitously above the onset of superconductivity. Gutzwiller mean field
+Approximation (GA) is found to agree with numerical Monte Carlo calculation. GA
+shows for example that for a bond amplitude $u(r)=e^{-r/\xi}$, spin spin
+correlations decay exponentially with a correlation length $\propto e^{3\pi
+\xi^2/2}$. Expectation value of the Heisenberg model is found to be correlated
+with average loop density.
+
+doi: 10.1103/PhysRevB.62.324
+pdf: http://arxiv.org/pdf/cond-mat/0001007v1
+journal_ref: null
+primary_category: 1
+authors: [Moshe Havilio, Assa Auerbach]
+affiliations: []
+keywords: [doped, antiferromagnets, correlations]
+
+arxiv_id: cond-mat/0001008v6
+title: Extension of the Brinkman-Rice picture and the Mott transition
+published: 2001-01-22
+summary:   In order to explain the metal-Mott-insulator transition, the Brinkman-Rice
+(BR) picture is extended. In the case of less than one as well as one electron
+per atom, the on-site Coulomb repulsion is given by U={kappa}{rho}^2U_c by
+averaging the electron charge per atom over all atomic sites, where {kappa} is
+the correlation strength of U, {rho} is the band filling factor, and U_c is the
+critical on-site Coulomb energy. The effective mass of a quasiparticle is found
+to be m*/m=1/{1-{kappa}^2{rho}^4} for 0<{kappa}{rho}^2<1 and seems to follow
+the heat capacity data of Sr_{1-x}La_xTiO_3 and YBa_2Cu_3O_{7-delta} at
+{kappa}=1 and 0<{kappa}{rho}^2<1. The Mott transition of the first order occurs
+at {kappa}{rho}^2=1 and a band-type metal-insulator transition takes place at
+{kappa}{rho}^2=0. This Mott transition is compared with that in the d=infinity
+Hubbard model. The effective mass for 2D-DOS instead of the vHs can be used for
+the mechanism of high T_c superconductivity.
+
+doi: 10.1016/S0921-4534(00)00469-X
+pdf: http://arxiv.org/pdf/cond-mat/0001008v6
+journal_ref: null
+primary_category: 1
+authors: [Hyun-Tak Kim]
+affiliations: []
+keywords: [mott, extension, brinkman-rice, picture, transition]
+
+arxiv_id: cond-mat/0001009v1
+title: History dependence of peak effect in CeRu$_2$ and V$_3$Si: an analogy
+  with the random field Ising systems
+published: 2000-01-03
+summary:   We present results of transport measurements showing distinct path dependence
+of the electrical resistance in the superconducting vortex state of single
+crystal samples of CeRu$_2$ and V$_3$Si. Resistance measured in the vortex
+state of both the systems prepared by field cooling (FC), indicates a
+relatively higher degree of disorder than when it is prepared by isothermal
+variation of field. Small oscillations of magnetic field modify the resistance
+in the FC state, highlighting the metastable nature of that state. An analogy
+is drawn with the FC state of the random-field Ising systems.
+
+doi: 10.1016/S0038-1098(00)00004-1
+pdf: http://arxiv.org/pdf/cond-mat/0001009v1
+journal_ref: null
+primary_category: 1
+authors: [Sujeet Chaudhary, A. K. Rajarajan, Kanwal Jeet Singh, S. B. Roy, P. Chaddah]
+affiliations: []
+keywords: [random, analogy, field, ising, systems, ceru$_2$, effect, dependence, v$_3$si:, history, peak]
+
+arxiv_id: cond-mat/0001010v1
+title: Chaos in the thermodynamic limit
+published: 2000-01-03
+summary:   We study chaos in the Hamiltonian Mean Field model (HMF), a system with many
+degrees of freedom in which $N$ classical rotators are fully coupled. We review
+the most important results on the dynamics and the thermodynamics of the HMF,
+and in particular we focus on the chaotic properties.We study the Lyapunov
+exponents and the Kolmogorov--Sinai entropy, namely their dependence on the
+number of degrees of freedom and on energy density, both for the ferromagnetic
+and the antiferromagnetic case.
+
+doi: 10.1143/PTPS.139.204
+pdf: http://arxiv.org/pdf/cond-mat/0001010v1
+journal_ref: Prog.Theor.Phys.Suppl. 139 (2000) 204
+primary_category: 1
+authors: [V. Latora, A. Rapisarda, S. Ruffo]
+affiliations: [U. of Catania, U. of Florence]
+keywords: [chaos, thermodynamic, limit]
+
+arxiv_id: cond-mat/0001011v2
+title: Spin-Dependent Josephson Current through Double Quantum Dots and
+  Measurement of Entangled Electron States
+published: 2000-09-05
+summary:   We study a double quantum dot each dot of which is tunnel-coupled to
+superconducting leads. In the Coulomb blockade regime, a spin-dependent
+Josephson coupling between two superconductors is induced, as well as an
+antiferromagnetic Heisenberg exchange coupling between the spins on the double
+dot which can be tuned by the superconducting phase difference. We show that
+the correlated spin states-singlet or triplets-on the double dot can be probed
+via the Josephson current in a dc-SQUID setup.
+
+doi: 10.1103/PhysRevB.62.13569
+pdf: http://arxiv.org/pdf/cond-mat/0001011v2
+journal_ref: Phys. Rev. B 62, 13 569 (2000)
+primary_category: 1
+authors: [Mahn-Soo Choi, C. Bruder, Daniel Loss]
+affiliations: [Univ. of Basel]
+keywords: [through, current, entangled, spin-dependent, dots, double, electron, josephson, quantum, measurement, states]
+
